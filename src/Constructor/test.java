@@ -5,6 +5,7 @@ public class test {
         Demo t = new Demo();
         Demo t1=new Demo(221,35,1045);
         t1.display();
+
         Demo t2 = new Demo("Fahim", "Fardin");
 
     }
