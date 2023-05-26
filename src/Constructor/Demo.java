@@ -3,7 +3,6 @@ package Constructor;
 public class Demo {
 
     int x,y,z;
-    String d;
 
     Demo() {
         System.out.println("my name is fahim ");
